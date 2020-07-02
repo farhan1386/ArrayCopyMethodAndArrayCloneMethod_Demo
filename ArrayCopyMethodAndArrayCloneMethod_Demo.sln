@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayCopyMethodAndArrayCloneMethod_Demo", "ArrayCopyMethodAndArrayCloneMethod_Demo\ArrayCopyMethodAndArrayCloneMethod_Demo.csproj", "{32621898-078A-45C8-87B6-74528EC2865A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32621898-078A-45C8-87B6-74528EC2865A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32621898-078A-45C8-87B6-74528EC2865A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32621898-078A-45C8-87B6-74528EC2865A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32621898-078A-45C8-87B6-74528EC2865A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {663218C1-6D60-481E-890C-A64521F9922B}
+	EndGlobalSection
+EndGlobal
